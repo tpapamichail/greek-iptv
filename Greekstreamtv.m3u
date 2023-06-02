@@ -51,6 +51,8 @@ https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",BCI KIDS
+https://eu1.netmax-host.eu:1936/bcimedia2/bcimedia2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="",ZOYZOYNIA TV
 http://ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
 #EXTINF:11 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ept-world-live" tvg-logo="https://i.imgur.com/WeJpLhK.png",ERT WORLD 
@@ -257,6 +259,8 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/LoWWjqz.jpg",NETV EUROPE HD
+https://eu1.netmax-host.eu:1936/bcimedia1/bcimedia1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:5860 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="",VERGINA TV
