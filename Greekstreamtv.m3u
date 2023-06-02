@@ -219,8 +219,8 @@ https://kali.vdopanel.com:3122/stream/play.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
-http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png",IME WEB TV
+http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/Y0AhJTU.png",MGR TV TRAVEL
 https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
