@@ -47,6 +47,8 @@ https://channel.streams.ovh:1936/dipolo/dipolo/playlist.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",KIDS TV
 http://65.108.62.57:8080/live/kidshd.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/PkCoTNY.png",BCI KIDS
+https://eu1.netmax-host.eu:1936/bcimedia2/bcimedia2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/6mldIpo.png",WB KIDS
 http://ythls.onrender.com/channel/UCniI-BQk7qAtXNmmz40LSdg.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/SrKV4ZT.png",ZOYZOYNIA TV
@@ -251,6 +253,8 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 https://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg",ELLAS TV
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/LoWWjqz.jpg",NETV EUROPE HD
+https://eu1.netmax-host.eu:1936/bcimedia1/bcimedia1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/K5S2wDu.jpg",FASHION TV GREECE
 https://ssai.castify.ai/media/ae034f39-2a81-4faf-ac63-52746ebca9fb/profile/0/profileManifest.m3u8?_uid=76708f3d-29e5-4326-9331-b075d3c68267&rK=eu
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
