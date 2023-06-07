@@ -128,7 +128,7 @@ https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:7050 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IPIROSTV.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:6050 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL
-https://eu1.vectromdigital.com:1936/topchannel/topchannel/playlist.m3u8
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
 #EXTINF:5700 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALFA.gr" tvg-logo="https://i.imgur.com/39l3uRU.jpg",ALFA DRAMAS
 http://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 #EXTINF:7000 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
