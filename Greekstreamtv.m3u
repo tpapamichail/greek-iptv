@@ -315,3 +315,7 @@ https://eu1.vectromdigital.com:1936/cetn/cetn/playlist.m3u8
 http://127.0.0.1:88/https://www.twitch.tv/ontv2023
 #EXTINF:-1 group-title="WEB TV" tvg-logo="",TOP CHANNEL BUP
 http://127.0.0.1:88/https://www.twitch.tv/topchannelkozani
+#EXTINF:4130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",RODOPI TV
+http://127.0.0.1:88/https://www.twitch.tv/tvrodopi
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="",MARON TV
+http://127.0.0.1:88/https://www.twitch.tv/marontvgr
