@@ -41,6 +41,8 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png",BCI CINEMA
 https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="",BCI CLACCIC
+https://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg",CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:2232 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
