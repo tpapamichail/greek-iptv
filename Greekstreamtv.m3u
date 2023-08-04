@@ -226,7 +226,7 @@ https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg",DESTINATION GREECE TV
-https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/umm0f3K.png",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/OfpmvL7.png",10 CHANNEL
@@ -267,10 +267,6 @@ http://127.0.0.1:88/https://www.twitch.tv/xtvision
 http://127.0.0.1:88/https://www.twitch.tv/verginacy
 #EXTINF:5044 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg",PRO NEWS WEB 
 http://127.0.0.1:88/https://www.twitch.tv/pronewstv
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",DTP
-http://127.0.0.1:88/https://www.twitch.tv/dtpylias
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="",ORTHODOXIA
-http://127.0.0.1:88/https://www.twitch.tv/orthodoxiaradio
 #EXTINF:5760 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="kosmos" tvg-logo="https://i.imgur.com/dMavjyG.png",TV KOSMOS
 http://127.0.0.1:88/https://www.twitch.tv/tvkosmosgr
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/qooJiZ6.png",CRECA TV
